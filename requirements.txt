@@ -1,0 +1,8 @@
+# --- Cliente (tu PC con VS Code) ---
+PySide6
+python-dotenv
+
+# --- Servidor (en Colab ya vienen instalados) ---
+requests
+Pillow
+# torch   <- descomenta solo si quieres correr el servidor en tu PC
